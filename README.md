@@ -4,16 +4,16 @@
 
 ## Hedefler
 
-- box model'i araştırın ve özelliklerini açıklamaya çalışın 
-- stiller oluşturmak için CSS kullanın 
+- box model'i araştırın ve özelliklerini açıklamaya çalışın
+- stiller oluşturmak için CSS kullanın
 - CSS kullanımının tarayıcılar arası proje geliştirmekdeki önemini kavrayın
-- Responsive site oluşturabilmek için kullanın: (px, em, rem, %, and vw.vh) 
+- Responsive site oluşturabilmek için kullanın: (px, em, rem, %, and vw.vh)
 
 ## Giriş
 
 Bu projede Nevşehir Göreme'de bulunan Peribacaları ile ilgili tek sayfalık bir tanıtım sitesi yapacağız.
 
-Hedeflenen sayfa dizaynı şu dosya içerisinde gösterilmiştir: [dizayn dosyası](/design/desktop.jpg) 
+Hedeflenen sayfa dizaynı şu dosya içerisinde gösterilmiştir: [dizayn dosyası](/design/desktop.jpg)
 
 ## Talimatlar
 
@@ -31,7 +31,7 @@ Aşağıdaki adımları takip edin.:
 
 Repository'niz hazır olunca verilen dizayn göze alınarak bugün öğrendiğiniz site stillemeye dair pratik yapın. Tamamladığınız sayfanın verdiğimiz dizayn dosyasına benziyor olması gerekmektedir. Minimum yeterliliği sağlamak için aşağıda verilenleri uygulayın:
 
-- [+] CSS stylesheet dosyanızı `index.html` dosyasına linkleyin 
+- [+] CSS stylesheet dosyanızı `index.html` dosyasına linkleyin
 - [+] Verilen görüntüyü elde etmek için HTML etiketlerinizi semantik(anlamsal) olarak ekleyin
 - [+] Menü elemanlarını ve footer(altbar)'ı arkaplanlarını(background) renklendirmek için verilen renk kodlarını kullanın:
   - [+] Gezinizi Planlayın: `#FF764E`
@@ -41,24 +41,23 @@ Repository'niz hazır olunca verilen dizayn göze alınarak bugün öğrendiğin
   - [+] Peri Bacaları Tanıtımı fontunun adı Chelsea Market'tir ve şu linkten ulaşılabilir [google fonts](https://fonts.google.com/specimen/Chelsea+Market)
   - [+] Diğer tüm fontlar Roboto Mono'dur ve şuradan ulaşılabilir [google fonts](https://fonts.google.com/specimen/Roboto+Mono)
 - [+] Ana metnin arka plan rengi: `#DDB9A3`
-- [ ] Footer'ın arka plan rengi: `#F9E7DC`
+- [+] Footer'ın arka plan rengi: `#F9E7DC`
 - [+] "olağanüstü ve rüya gibi bir deneyim." ve "dünyanın en iyi ATV turlarından birini" kelime öbeklerini bold yapın.
 - [+] Dizayn sayfasındaki sonucu yakalamak için Box model özelliklerini uygulayın (content, padding, margin, and border). En az şunları içermelidir:
   - [+] Headerde bir yuvarlak resim (image)
   - [+] Footer ve menü elemanlarında yuvarlak köşeler
-  - [+] Başlık(header) resmi ve hizalı text 
-  - [+] Ortalanmış içerikler, marginler ve içeriklerin etrafındaki marginler 
+  - [+] Başlık(header) resmi ve hizalı text
+  - [+] Ortalanmış içerikler, marginler ve içeriklerin etrafındaki marginler
   - [+] Footer resmi pozisyonu
 
 **Tasarımınız boyunca statik öğelerden kaçının (pikseller) Mümkün olduğunca responsive öğeler kullanın.**
 
 **Lütfen şunu unatmayın, bugünkü uygulamada flexbox kullanılmayacak. Hedefe inline-block kullanarak ulaşmayı deneyin.**
 
-
 ### Görev 3: Ek Görevler
 
 Aşağıdakileri uygulayın.
 
-- [ ] CSS animasyonları ekleyin (hover, mouseover, etc.)
-- [ ]  `Gezinizi Planlayın`, `Bilgi Edinin`, ve `Karşılaştırın` sayfaları için kendi tasarımlarınızı yapın ve çalıştırın
-- [+]  [favicon.io](https://favicon.io/favicon-converter/) sitesini kullanarak atv ve balon ikonlarını favicon'a dönüştürüp sayfaya ekleyin.
+- [+] CSS animasyonları ekleyin (hover, mouseover, etc.)
+- [ ] `Gezinizi Planlayın`, `Bilgi Edinin`, ve `Karşılaştırın` sayfaları için kendi tasarımlarınızı yapın ve çalıştırın
+- [+] [favicon.io](https://favicon.io/favicon-converter/) sitesini kullanarak atv ve balon ikonlarını favicon'a dönüştürüp sayfaya ekleyin.
