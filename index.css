@@ -21,18 +21,31 @@ a {
   margin-left: 7rem;
 }
 
+
+
 nav .gezi {
   display: inline-block;
   background-color: #ff764e;
 }
+nav .gezi:hover{
+    background-color: rgb(255, 204, 204);
+    color: #ff764e;
+}
 nav .bilgi {
   background-color: #5ed3eb;
+}
+nav .bilgi:hover{
+    background-color: rgb(203, 255, 255);
+    color: #5ed3eb;
 }
 
 nav .karsilastirma {
   background-color: #ffcd69;
 }
-
+nav .karsilastirma:hover{
+    color: #febd3b;
+    background-color: #fce6bb;
+}
 header {
   margin-top: 8rem;
   display: flex;
